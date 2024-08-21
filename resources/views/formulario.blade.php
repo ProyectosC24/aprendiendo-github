@@ -44,7 +44,8 @@
     </head>
     <body>
         <div class="center">
-             <h1>Hola</h1>
+             <h1>Nombre Completo</h1>
+             <h1>Apellido</h1>
         </div>
     </body>
     <script>
